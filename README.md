@@ -62,3 +62,5 @@ site-seguro/
 - A tela cheia pode ser recusada pelo navegador; o alerta cobre a janela de qualquer forma. Há botão "Fechar" e a tecla Esc.
 - A detecção por padrões gera falsos positivos e não substitui um WAF.
 - Imagem e som assustadores podem causar mal-estar (fotossensibilidade, sustos): use só em ambiente próprio e avise quem for testar.
+
+[clique aqui para acessar o site]
